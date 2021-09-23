@@ -1,11 +1,12 @@
 clear
-toilet -f mono12 -F gay "Welcome Aswin"
+toilet -f mono12 -F gay "Welcome"
+toilet -f mono12 -F gay "Aswin"
 sleep 5
 pkg install toilet
 pkg install sl
 sl
 echo " YOU ARE IN DANDER"
-sleep 1
+sleep 2
 clear
 echo "░░░░░░░░░░░░░░░░▓██████▓▓▓░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░█████▓▓█████████▓░░░░░░░░░░░
