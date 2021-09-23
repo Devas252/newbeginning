@@ -1,15 +1,14 @@
-echo "# newbeginning" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Devas252/newbeginning.git
-git push -u origin main
+clear
+echo " Welcome Man"
+sleep 2
 pkg install sl
 sl
+clear
 echo "loading mahn"
 sleep 2
 pkg install toilet
 toilet -f mono12 -F gay "Devas"
-sleep 5
+sleep 3
 echo "thankyou"
+echo "engane ind"
+toilet -f mono12 -F gay "enikk vayya"
