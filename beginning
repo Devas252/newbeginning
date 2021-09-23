@@ -1,6 +1,6 @@
 clear
 toilet -f mono12 -F gay "Welcome"
-toilet -f mono12 -F gay "Aswin"
+toilet -f mono12 -F gay "Man"
 pkg install toilet
 pkg install sl
 sl
