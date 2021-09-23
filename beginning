@@ -1,14 +1,14 @@
 clear
 echo " Welcome Aswin"
 sleep 2
+pkg install toilet
+toilet -f mono12 -F gay "Devas"
+sleep 2
 pkg install sl
 sl
 clear
 echo "loading mahn"
 sleep 2
-pkg install toilet
-toilet -f mono12 -F gay "Devas"
-sleep 3
 echo "thankyou"
 echo "engane ind"
-toilet -f mono12 -F gay "enikk vayya"
+
