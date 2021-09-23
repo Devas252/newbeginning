@@ -1,9 +1,6 @@
 clear
 toilet -f mono12 -F gay "Welcome"
 toilet -f mono12 -F gay "Man"
-pkg install toilet
-pkg install sl
-sl
 clear
 echo " YOU ARE IN DANDER"
 sleep 3
